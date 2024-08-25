@@ -52,6 +52,7 @@ This is a Node.js project built using Express.js, Sequelize, and MySQL. It inclu
 
 1. **Run Migrations:**
      To set up your database schema, run the migrations:
+     
      npm run migrate
 
 
@@ -82,21 +83,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   	 
   	npm –v
  
-4.	Install Angular CLI globally using npm:
+3.	Install Angular CLI globally using npm:
    
     npm install -g @angular/cli
 
-6.	Verify the installation:
+4.	Verify the installation:
    
     ng version
 
-8.	Clone the Repository:  First, clone the project repository from GitHub to your local machine.
-   
-    git clone https://github.com/walinabizada/angular-AUTH-functionality
-  	 
-    cd angular-AUTH-functionality
-
-10.	Install Dependencies:
+5.	Install Dependencies:
     
        npm install
 
