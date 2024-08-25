@@ -52,6 +52,7 @@ This is a Node.js project built using Express.js, Sequelize, and MySQL. It inclu
 
 1. **Run Migrations:**
      To set up your database schema, run the migrations:
+   
      npm run migrate
 
 
