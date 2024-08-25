@@ -2,13 +2,13 @@
 I Created a mini version of the platform with at least three core functionalities: user registration, a job posting application, and a simple company directory. The project should be designed using modern full-stack technologies.
 
 ## Used Technologies:
-     Backend: The backend implemented by using Node.js with Express, sequelize ORM. The backend have RESTful APIs for user management, job postings, and company directory operations.
+Backend: The backend implemented by using Node.js with Express, sequelize ORM. The backend have RESTful APIs for user management, job postings, and company directory operations.
 
-     Database: I used a relational database (MySQL). And I designed the database schema to support the given functionalities and relationships are properly set up.
-     
-     Frontend: the frontend built by using Angular (18.2.0). The frontend interact with the backend via the APIs and user interface.
-     
-     Authentication: I implemented user authentication using JWT (JSON Web Tokens) and secure access to the backend services.
+Database: I used a relational database (MySQL). And I designed the database schema to support the given functionalities and relationships are properly set up.
+
+Frontend: the frontend built by using Angular (18.2.0). The frontend interact with the backend via the APIs and user interface.
+
+Authentication: I implemented user authentication using JWT (JSON Web Tokens) and secure access to the backend services.
 
 
 # Backend Setup
